@@ -3,6 +3,11 @@ chellock
 some strings here
 
 remote books change
+<<<<<<< HEAD
+master here
+=======
+the slave was here
+>>>>>>> bugfix
 
 <<<<<<< HEAD
 master fix
