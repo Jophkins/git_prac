@@ -4,4 +4,9 @@ some strings here
 
 remote books change
 
-master
+<<<<<<< HEAD
+master fix
+=======
+
+bugfix branch fixing
+>>>>>>> bugfix
